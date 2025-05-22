@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But don't ignore these source files:
+!.gitignore
+!*.cpp
+!*.h
+!*.sln
+!*.vcxproj
+!*.filters
