@@ -1,0 +1,46 @@
+﻿  http_impl.cpp
+  ipc_socket_impl.cpp
+  service_impl.cpp
+C:\Users\GollaShashikanth\Downloads\restbed-master\restbed-master\source\corvusoft\restbed\detail\http_impl.cpp(14,10): error C1083: Cannot open include file: 'corvusoft/restbed/uri.hpp': No such file or directory
+C:\Users\GollaShashikanth\Downloads\restbed-master\restbed-master\source\corvusoft\restbed\detail\service_impl.cpp(18,10): error C1083: Cannot open include file: 'corvusoft/restbed/uri.hpp': No such file or directory
+  session_impl.cpp
+C:\Users\GollaShashikanth\Downloads\restbed-master\restbed-master\source\corvusoft\restbed\detail\session_impl.cpp(13,10): error C1083: Cannot open include file: 'corvusoft/restbed/uri.hpp': No such file or directory
+  socket_impl.cpp
+C:\Users\GollaShashikanth\Downloads\restbed-master\restbed-master\source\corvusoft\restbed\detail\socket_impl.cpp(10,10): error C1083: Cannot open include file: 'corvusoft/restbed/logger.hpp': No such file or directory
+  web_socket_impl.cpp
+C:\Users\GollaShashikanth\Downloads\restbed-master\restbed-master\source\corvusoft\restbed\detail\web_socket_impl.cpp(9,10): error C1083: Cannot open include file: 'corvusoft/restbed/web_socket.hpp': No such file or directory
+  web_socket_manager_impl.cpp
+C:\Users\GollaShashikanth\Downloads\restbed-master\restbed-master\source\corvusoft\restbed\detail\web_socket_manager_impl.cpp(13,10): error C1083: Cannot open include file: 'corvusoft/restbed/logger.hpp': No such file or directory
+  http.cpp
+C:\Users\GollaShashikanth\Downloads\restbed-master\restbed-master\source\corvusoft\restbed\http.cpp(16,10): error C1083: Cannot open include file: 'corvusoft/restbed/uri.hpp': No such file or directory
+  request.cpp
+C:\Users\GollaShashikanth\Downloads\restbed-master\restbed-master\source\corvusoft\restbed\request.cpp(11,10): error C1083: Cannot open include file: 'corvusoft/restbed/uri.hpp': No such file or directory
+  resource.cpp
+C:\Users\GollaShashikanth\Downloads\restbed-master\restbed-master\source\corvusoft\restbed\resource.cpp(16,10): error C1083: Cannot open include file: 'corvusoft/restbed/rule.hpp': No such file or directory
+  response.cpp
+C:\Users\GollaShashikanth\Downloads\restbed-master\restbed-master\source\corvusoft\restbed\response.cpp(12,10): error C1083: Cannot open include file: 'corvusoft/restbed/string.hpp': No such file or directory
+  rule.cpp
+C:\Users\GollaShashikanth\Downloads\restbed-master\restbed-master\source\corvusoft\restbed\rule.cpp(8,10): error C1083: Cannot open include file: 'corvusoft/restbed/rule.hpp': No such file or directory
+  service.cpp
+C:\Users\GollaShashikanth\Downloads\restbed-master\restbed-master\source\corvusoft\restbed\service.cpp(16,10): error C1083: Cannot open include file: 'corvusoft/restbed/uri.hpp': No such file or directory
+  session.cpp
+C:\Users\GollaShashikanth\Downloads\restbed-master\restbed-master\source\corvusoft\restbed\session.cpp(10,10): error C1083: Cannot open include file: 'corvusoft/restbed/session.hpp': No such file or directory
+  session_manager.cpp
+C:\Users\GollaShashikanth\Downloads\restbed-master\restbed-master\source\corvusoft\restbed\session_manager.cpp(9,10): error C1083: Cannot open include file: 'corvusoft/restbed/string.hpp': No such file or directory
+  settings.cpp
+C:\Users\GollaShashikanth\Downloads\restbed-master\restbed-master\source\corvusoft\restbed\settings.cpp(8,10): error C1083: Cannot open include file: 'corvusoft/restbed/settings.hpp': No such file or directory
+  ssl_settings.cpp
+C:\Users\GollaShashikanth\Downloads\restbed-master\restbed-master\source\corvusoft\restbed\ssl_settings.cpp(8,10): error C1083: Cannot open include file: 'corvusoft/restbed/uri.hpp': No such file or directory
+  string.cpp
+C:\Users\GollaShashikanth\Downloads\restbed-master\restbed-master\source\corvusoft\restbed\string.cpp(12,10): error C1083: Cannot open include file: 'corvusoft/restbed/string.hpp': No such file or directory
+  uri.cpp
+C:\Users\GollaShashikanth\Downloads\restbed-master\restbed-master\source\corvusoft\restbed\uri.cpp(22,10): error C1083: Cannot open include file: 'corvusoft/restbed/uri.hpp': No such file or directory
+  web_socket.cpp
+C:\Users\GollaShashikanth\Downloads\restbed-master\restbed-master\source\corvusoft\restbed\web_socket.cpp(9,10): error C1083: Cannot open include file: 'corvusoft/restbed/string.hpp': No such file or directory
+  Generating Code...
+  Compiling...
+  web_socket_message.cpp
+C:\Users\GollaShashikanth\Downloads\restbed-master\restbed-master\source\corvusoft\restbed\web_socket_message.cpp(8,10): error C1083: Cannot open include file: 'corvusoft/restbed/string.hpp': No such file or directory
+  main.cpp
+C:\Users\GollaShashikanth\source\repos\final\main.cpp(2,10): error C1083: Cannot open include file: 'restbed': No such file or directory
+  Generating Code...
